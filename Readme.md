@@ -321,16 +321,14 @@ The project demonstrates:
 
 ## Create Task
 
->  
-
-![Create Task](Create Task .png)
+> 
+![Create Task](Create Task.png)
 
 ---
 
 ## Activity Logs
 
->  
-
+> 
 ![Activity Logs](Activity Log.png)
 
 ---
