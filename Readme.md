@@ -4,7 +4,7 @@ A desktop-based Task Management System developed using ***Java Swing, Oracle Dat
 
 While the application provides a clean and functional desktop interface, the primary objective of this project was ***software architecture*** and ***system design*** rather than UI design. The project focuses on applying Object-Oriented Programming, Layered Architecture ***(UI → Service → DAO → Database)***, the DAO design pattern, JDBC, and relational database design to build a maintainable and scalable desktop application.
 
-The system allows multiple users to securely manage their personal tasks through authentication, task management, activity logging, deadline notifications, and advanced filtering while demonstrating real-world software engineering principles.
+The system allows multiple users to securely manage their personal tasks through authentication, task management, activity logging, and advanced filtering while demonstrating real-world software engineering principles.
 
 ---
 
@@ -60,12 +60,6 @@ Download the latest release here:
 - Search by Task ID
 - Search by Title
 - Filter by Status
-
-### 🔔 Notifications
-
-- One-hour Deadline Reminder
-- Deadline Reached Alert
-- Automatic Dashboard Refresh
 
 ### 📑 Activity Logs
 
@@ -156,7 +150,6 @@ Contains business logic.
 - AuthenticationService
 - TaskService
 - UserProfileCreationService
-- DeadlinePeepingService
 
 ---
 
