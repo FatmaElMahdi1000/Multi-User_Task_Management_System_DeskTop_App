@@ -349,21 +349,6 @@ During this project, I strengthened my understanding of:
 
 ---
 
-# 🚀 Future Improvements
-
-- Password Hashing
-- Spring Boot Backend
-- REST API
-- Role-Based Access Control
-- Export to PDF
-- Export to Excel
-- Charts & Analytics
-- Unit Testing
-- Cloud Database
-- Responsive UI
-
----
-
 # ⚙️ Getting Started
 
 ## Clone the Repository
