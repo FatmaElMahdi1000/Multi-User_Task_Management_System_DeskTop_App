@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MS_jar</output-path>
+    <root id="archive" name="MS.jar">
+      <element id="module-output" name="MS" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../MegaSoft Project/ojdbc11-21.1.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
