@@ -307,24 +307,21 @@ The project demonstrates:
 # 📸 Screenshots
 
 ## Login Screen
-
-> *(Insert Screenshot Here)*
-
+>  
 ![Login](Login.png)
 
 ---
 
 ## Dashboard
 
-> *(Insert Screenshot Here)*
-
+>  
 ![Dashboard](DashBoard.png)
 
 ---
 
 ## Create Task
 
-> *(Insert Screenshot Here)*
+>  
 
 ![Create Task](Create Task .png)
 
@@ -332,7 +329,7 @@ The project demonstrates:
 
 ## Activity Logs
 
-> *(Insert Screenshot Here)*
+>  
 
 ![Activity Logs](Activity Log.png)
 
